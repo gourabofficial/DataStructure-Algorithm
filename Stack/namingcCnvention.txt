@@ -1,0 +1,3 @@
+camelCase -> gourabGanguly, isOverflow, isPrimeNumber, checkIfIsArmstrongNumber
+PascalCase -> GourabGanguly, IsPrimeNumber, IsOverflow, isUnderflow
+snake_case -> gourab_ganguly, naming_convention, is_overflow, is_underflow
